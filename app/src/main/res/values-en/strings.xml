@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Meter Record</string>
+    <string name="btn_registrar_medidor" >Register Meter</string>
+    <string name="nuevo_registro">New record</string>
+    <string name="seleccionar_fecha">Select Date</string>
+    <string name="tipo_medidor">Type of meter</string>
+    <string name="guardar">Save record</string>
+    <string name="mensaje_error">Please complete all fields correctly</string>
+    <string name="agua">Water</string>
+    <string name="luz">Electricity</string>
+    <string name="gas">Gas</string>
+</resources>

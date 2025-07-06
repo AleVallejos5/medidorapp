@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">App Registro Medidor</string>
+    <string name="btn_registrar_medidor" >Registrar Medidor</string>
+    <string name="nuevo_registro">Nuevo registro</string>
+    <string name="seleccionar_fecha">Seleccionar Fecha</string>
+    <string name="tipo_medidor">Tipo de medidor</string>
+    <string name="guardar">Guardar registro</string>
+    <string name="mensaje_error">Completa todos los campos correctamente</string>
+    <string name="agua">Agua</string>
+    <string name="luz">Luz</string>
+    <string name="gas">Gas</string>
+</resources>
